@@ -31,7 +31,7 @@ VALUES
 	(2, 'ORD-1002', '12 Lake St, Boston',  '+1-555-0101', '2026-01-07'),
 	(3, 'ORD-1003', '88 Pine Ave, Seattle', '+1-555-0202', '2026-01-09'),
 	(4, 'ORD-1004', '44 Nile Rd, Cairo',    '+1-555-0303', '2026-01-10'),
-	(5, 'ORD-1005', '77 Hill Rd, Austin',   '+1-555-0404', '2026-01-11'); -- no sales rows
+	(5, 'ORD-1005', '77 Hill Rd, Austin',   '+1-555-0404', '2026-01-11'); 
 
 INSERT INTO products (id, name, unit_price)
 VALUES
