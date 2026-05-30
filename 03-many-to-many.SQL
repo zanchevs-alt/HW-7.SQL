@@ -55,7 +55,6 @@ VALUES
 	(4, 2, 1),
 	(4, 7, 1);
 
-
 -- 5.
 SELECT
 	o.order_no,
